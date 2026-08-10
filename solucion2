@@ -1,0 +1,6 @@
+Solucion al problema 2 :Calcular eñ iva de una compra de 75584 iva a 16%.
+Solucion:
+Paso 1 compra *0.16 
+75584*0.16 = 12,093.44
+Paso 2: compra+ resultado iva
+75584+12,093.44 =87,677.44
